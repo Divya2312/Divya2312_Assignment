@@ -1,0 +1,167 @@
+*{
+   box-sizing: border-box;
+   font-family: 'Source Sans Pro', sans-serif;
+}
+body{
+    height:100%;
+    width:100%;
+    top: 0px;
+    font-size:14px;
+    justify-content: center;
+
+    
+}
+.contact-form{
+    height: 600px;
+    width:900px;
+    border:solid;
+    border-color: lightgray;
+    border-width: 2px;
+    margin-left:180px;
+    padding-right:250px;
+    border-bottom: hidden;
+
+
+}
+.form-data{
+   margin-left: 25px;
+    width: 450px;
+    height:100px;
+
+   
+}
+.image{
+ 
+ margin-left:530px;
+ margin-top:-20px;
+ float:right;
+ position:absolute;
+ 
+}
+#form_data{
+    padding-left: 18px;
+    height: 10px;
+    width: 200px;
+    
+}
+ 
+#button{
+    background-color: darkslategrey;
+    color:white;
+    border-radius: 6px;
+    width:130px;
+    height:30px;
+    margin-top:30px;
+    margin-left:240px;
+    border-bottom: darkslategrey;
+    border-right: darkslategrey;
+    border-top: darkslategrey;
+    border-left: darkslategrey;
+    opacity:50px;
+}
+
+
+
+
+#sub-label{
+    width:400px;
+    border-top:hidden;
+    border-left:hidden;
+    border-right:hidden;
+    border-color: lightgray;
+    border-width:1.5px;
+    padding:2px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 13px;
+    padding-bottom: 3px;
+    opacity:70%;
+    
+}
+
+#label{
+    color:gray;
+    opacity:100%;
+    
+}
+#many{
+    color:black;
+    opacity:90%;
+    
+}
+#Notarisations{
+    color:darkblue;
+    width:118px;
+    height:28px;
+    margin-left:300px;
+    border-color: darkblue;
+    border-width: 1.5px;
+    opacity:60%;
+    padding-top: 2px;
+    
+    
+}
+#Signers{
+    color:blue;
+    width:118px;
+    height:28px;
+    margin-left:300px;
+    border-color: darkblue;
+    border-width: 1.5px;
+    opacity:60%;
+  
+}
+#main-heading{
+    margin-left:30px;
+    margin-top:20px;
+    
+}
+#subheading{
+    padding-left: 20px;
+    font-size:17px;
+}
+.logo{
+    padding-left: 220px;
+    padding-top:30px;
+    width:50px;
+    height:120px;
+}
+#address
+{
+    padding-left: 790px;
+    float:top;
+    margin-top:-100px;
+
+    
+}
+#loader {
+    border: 12px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 12px solid #444444;
+    width: 70px;
+    height: 70px;
+    animation: spin 1s linear infinite ;
+   
+   
+}
+  
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+        transform:rotate(1turn);
+    }
+}
+  
+.center {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+ 
+    
+    
+  
+ 

@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+ }
+ body{
+     height:100%;
+     width:100%;
+     top: 0px;
+     font-size:14px;
+     justify-content: center;
+ 
+     
+ }
+
+.image{
+ 
+    margin-left:220px;
+    margin-top:0px;
+    float:right;
+    position:absolute;
+}  
+.contact-form{
+    height: 600px;
+    width:900px;
+    border:solid;
+    border-color: lightgray;
+    border-width: 2px;
+    margin-left:180px;
+    padding-right:250px;
+    border-bottom: hidden;
+    margin-top:35px;
+}
+.computer
+{
+    margin-top:160px;
+    margin-left:230px;
+    
+}
+#congrats{
+    margin-left:248px;
+}
+#heading1
+{
+    font-size:16px;
+    margin-left:163px;
+    opacity:90%;
+}
+#heading2{
+    margin-left:135px;
+    color:rgb(53, 44, 44);
+    opacity: 90%;
+}
+#heading3{
+    margin-left:112px;
+    color:rgb(53, 44, 44);
+    opacity: 90%;
+}
+.symbol{
+    margin-left: 140px;
+}
+.calling{
+    position: absolute;
+    margin-top: -29px;
+    margin-left: 370px;
+
+}
+#mail{
+    margin-left:170px;
+    margin-top:-29px;
+    width: 100px;
+    opacity: 90%;
+}
+#number{
+    margin-left:388px;
+    margin-top:-30px;
+    opacity: 90%;
+}
